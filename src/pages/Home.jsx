@@ -2,7 +2,7 @@ import React from "react";
 import ProductUpload from "../components/ProductUpload";
 import ProductList from "../components/ProductList";
 import Header from "../components/Header";
-import Feedback from "../../../ah/src/components/Feedback";
+import Feedback from "../components/Feedback";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 

@@ -66,7 +66,7 @@ const ProductList = () => {
           placeholder="Search products..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          className="w-full p-2 mb-4 border-2 border-gray-100 bg-black rounded-md"
+          className="w-full p-2 mb-4 border-2 border-gray-100 text-white bg-black rounded-md"
         />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
